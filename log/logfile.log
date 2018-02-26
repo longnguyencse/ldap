@@ -1,0 +1,146 @@
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:42) - Begin tool update info for LDAP
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:158) - Read file complete
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:173) - tungp01
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:175) - Update info for account: strID: tungp01
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:244) - Update webDAVURL,webAccessURL Ldap base: dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://webdav-e.dev.com.vn and http://waf-e.dev.com.vn 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:247) - Update webDAVURL,webAccessURL success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=anonymous,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dtphat,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=admin,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=tanhai,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@yahoo.com,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dev24_v,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@mikorn4.com,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=ghk,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitesnew,dc=mikorn1.com,strID=tungp01,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:173) - tungp02
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:175) - Update info for account: strID: tungp02
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:244) - Update webDAVURL,webAccessURL Ldap base: dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://webdav-e.dev.com.vn and http://waf-e.dev.com.vn 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:247) - Update webDAVURL,webAccessURL success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=anonymous,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dtphat,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=admin,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=tanhai,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@yahoo.com,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dev24_v,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@mikorn4.com,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=ghk,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitesnew,dc=mikorn2.com,strID=tungp02,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:173) - tungp03
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:175) - Update info for account: strID: tungp03
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:244) - Update webDAVURL,webAccessURL Ldap base: dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://webdav-e.dev.com.vn and http://waf-e.dev.com.vn 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:247) - Update webDAVURL,webAccessURL success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=anonymous,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dtphat,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=admin,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=tanhai,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@yahoo.com,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dev24_v,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@mikorn4.com,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=ghk,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitesnew,dc=mikorn3.com,strID=tungp03,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:173) - tungp04
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:175) - Update info for account: strID: tungp04
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:244) - Update webDAVURL,webAccessURL Ldap base: dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://webdav-e.dev.com.vn and http://waf-e.dev.com.vn 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:247) - Update webDAVURL,webAccessURL success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=anonymous,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dtphat,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=admin,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=tanhai,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@yahoo.com,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dev24_v,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@mikorn4.com,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=ghk,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitesnew,dc=mikorn4.com,strID=tungp04,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:173) - tungp05
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:175) - Update info for account: strID: tungp05
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:244) - Update webDAVURL,webAccessURL Ldap base: dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://webdav-e.dev.com.vn and http://waf-e.dev.com.vn 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:247) - Update webDAVURL,webAccessURL success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=anonymous,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dtphat,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=admin,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=tanhai,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@yahoo.com,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dev24_v,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@mikorn4.com,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=ghk,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitesnew,dc=mikorn5.com,strID=tungp05,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:173) - tungp06
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:175) - Update info for account: strID: tungp06
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:244) - Update webDAVURL,webAccessURL Ldap base: dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://webdav-e.dev.com.vn and http://waf-e.dev.com.vn 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:247) - Update webDAVURL,webAccessURL success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=anonymous,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dtphat,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=admin,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=tanhai,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@yahoo.com,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=dev24_v,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest@mikorn4.com,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitest,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=ghk,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:230) - Update fileInfo, Ldap base: cn=haitesnew,dc=mikorn6.com,strID=tungp06,strID=dubuweb2,o=editor,dc=dubueditor,dc=com, value = http://fileinfo.dubueditor.com/ 
+INFO  | 2018-02-26 16:29:07 | [main] App (App.java:232) - Update fileInfo success
